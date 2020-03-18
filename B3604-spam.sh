@@ -1,13 +1,13 @@
-#MAU NGAPAIN MONYET !!
-#MAU RECODE !?
-#HAHAHA KONTOL RECODE AJG !!
-#NGAPAIN MASIH DI SINI MONYET !!
-#PERGI LAGI SANA KONTOL !!
-#BANGSAT LU ANJING !!
-#LU YANG MONYET !!
-#PERGI JAUH JAUH KONTOL BABI !!
+#DOSA TANGGUNG SENDIRI !!
+#YA IYA LAH !?
+#WKWKWKWKWKWKWKWKW !!
+#GUNAKAN DENGAN BAR BAR !!
+#JANGAN RAGU RAGU !!
+#YANG MENGGUNAKAN TOOLS INI !!
+#MONYET !!
+#SENSOR !!
 #SALAM HEKEL
-#SALAM MAQLO
+#SALAM SEJAHTERA
 clear
 # Variables
 b='\033[1m'
@@ -28,7 +28,7 @@ echo "##################################"|lolcat
 echo "/ TOOLS : SPAM v1                /"|lolcat
 echo "/ CODED : MR.B3604               /"|lolcat
 echo "/ TEAM  : 407 Authentic eXploit  /"|lolcat
-echo "/ youtube : GUNAWAN ID           /"|lolcat
+echo "/ youtube : UNknown 53           /"|lolcat
 echo "##################################"|lolcat
 
 echo "daftar tools spam"
